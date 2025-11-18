@@ -45,11 +45,13 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
 
+<img width="1376" height="673" alt="Screenshot 2025-11-12 092602" src="https://github.com/user-attachments/assets/f2000f18-0cdb-41e0-8049-c5d4c25f1737" />
 
 
 
 b.  KCL:
  
+![aancyana](https://github.com/user-attachments/assets/6c493c4e-d863-4142-905b-c5b972f3c509)
 
 
 Calculation:
@@ -80,8 +82,8 @@ b.  KCL:
 
 |KVL|$$I_{30\Omega}$$|$$I_{50\Omega}$$|$$I_{100\Omega}$$|$$V_A$$|
  |:-----:|:-----:|:------------:|:--------------:|:---------------:|
- |Theoretical|1.58A|1.05A|0.53A|52.63A|100.05V|
- |partical|1.58A||1.05A|0.53V|52.6V|
+ |Theoretical|1.58A|1.05A|0.53A|52.63V|
+ |partical|1.58A|1.05A|0.53V|52.6V|
 
 RESULT:
 
