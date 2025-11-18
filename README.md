@@ -58,13 +58,15 @@ Calculation:
 
 a.   KVL:
  
-![anuu3](https://github.com/user-attachments/assets/9e25c032-39a0-4269-b3b4-b4ea77fbed3f)
+![anuanas](https://github.com/user-attachments/assets/55fb3188-eab5-48cb-bf11-d6567b2aa33a)
+
 
 
 b.  KCL:
 
 
-![anuu4](https://github.com/user-attachments/assets/8fb72005-73d9-4fba-a5e6-237749e53c08)
+![anuanans2](https://github.com/user-attachments/assets/47242616-8e2f-49b9-8ed7-5cbed2efa6c1)
+
 
 
 Tabulation:
