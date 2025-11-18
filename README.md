@@ -44,32 +44,44 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+
+
 
 
 b.  KCL:
  
+
 
 Calculation:
 
 a.   KVL:
  
+![anuu3](https://github.com/user-attachments/assets/9e25c032-39a0-4269-b3b4-b4ea77fbed3f)
 
 
 b.  KCL:
 
 
+![anuu4](https://github.com/user-attachments/assets/8fb72005-73d9-4fba-a5e6-237749e53c08)
 
 
 Tabulation:
 
 a.   KVL:
  
+|KVL|Source(V)|$$V_{30\Omega}$$|$$V_{50\Omega}$$|$$V_{100\Omega}$$|$$V_{30\Omega}+V_{50\Omega}+V_{100\Omega}$$|
+ |:-----:|:-----:|:------------:|:--------------:|:---------------:|:-----------------------------------------:|
+ |Theoretical|100|16.68V|27.8V|55.6V|100.05V|
+ |partical|100|16.7V|27.8V|55.6V|100.1V|
 
 
 b.  KCL:
 
 
+|KVL|$$I_{30\Omega}$$|$$I_{50\Omega}$$|$$I_{100\Omega}$$|$$V_A$$|
+ |:-----:|:-----:|:------------:|:--------------:|:---------------:|
+ |Theoretical|1.58A|1.05A|0.53A|52.63A|100.05V|
+ |partical|1.58A||1.05A|0.53V|52.6V|
 
 RESULT:
 
